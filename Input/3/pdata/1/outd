@@ -1,0 +1,17 @@
+##TITLE= Parameter file, TOPSPIN		Version 2.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= UXNMR, Bruker Analytische Messtechnik GmbH
+##OWNER= root
+$$ 2017-04-11 19:47:59.701 +0200  fragai@sirio.intranet.nmr
+$$ /p/data/fragai/nmr/MDM2_MTG-397_121116/3/pdata/1/outd
+$$ process /opt/topspin/prog/mod/plot
+##$CURPLOT= <hplj1100>
+##$CURPRIN= <$hplj1100>
+##$DFORMAT= <normdp>
+##$LAYOUT= <~/Desktop/MDM2/MDM2_MTG397_200_21_1211116.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##$SURQMSG= 1
+##END=

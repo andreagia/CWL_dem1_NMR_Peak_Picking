@@ -1,0 +1,7 @@
+workdir:
+  class: Directory
+  path: .
+
+fidcom: 
+  class: File
+  path: fid.com

@@ -1,0 +1,93 @@
+NAME     MDM2_MTG-397_121116                
+EXPNO                 3                
+PROCNO                1                
+Date_          20161112                
+Time               9.30                
+INSTRUM           spect                
+PROBHD   5 mm CPTXO 13C                
+PULPROG    hsqcetfpf3gp                
+TD                 1536                
+SOLVENT             D2O                
+NS                   16                
+DS                   16                
+SWH           11160.714 Hz             
+FIDRES         7.266090 Hz             
+AQ            0.0689076 sec            
+RG                 2048                
+DW               44.800 usec           
+DE                 6.00 usec           
+TE                300.0 K              
+CNST4        94.0000000                
+d0           0.00000300 sec            
+D1           1.00000000 sec            
+d11          0.03000000 sec            
+d12          0.00002000 sec            
+D13          0.00000400 sec            
+D16          0.00020000 sec            
+d26          0.00265957 sec            
+DELTA        0.00124296 sec            
+DELTA1       0.00064757 sec            
+IN0          0.00023490 sec            
+ST1CNT                0                
+ZGOPTNS                                
+
+======== CHANNEL f1 ========
+NUC1                 1H                
+P1                18.48 usec           
+p2                36.96 usec           
+P11             1000.00 usec           
+P29             1000.00 usec           
+PL0              120.00 dB             
+PL1               -0.50 dB             
+SFO1        700.0632905 MHz            
+SP1               34.90 dB             
+SP11              34.20 dB             
+SPNAM1     Squa100.1000                
+SPNAM11    Squa100.1000                
+SPOAL1            0.500                
+SPOAL11           0.500                
+SPOFFS1            0.00 Hz             
+SPOFFS11           0.00 Hz             
+
+======== CHANNEL f3 ========
+CPDPRG3           garp4                
+NUC3                15N                
+P21               41.00 usec           
+p22               82.00 usec           
+PCPD3            250.00 usec           
+PL3               -1.40 dB             
+PL16              14.30 dB             
+SFO3         70.9447990 MHz            
+
+====== GRADIENT CHANNEL =====
+GPNAM1       SMSQ10.100                
+GPNAM2       SMSQ10.100                
+GPNAM3       SMSQ10.100                
+GPNAM4       SMSQ10.100                
+GPNAM5       SMSQ10.100                
+GPZ1              50.00 %              
+GPZ2              80.00 %              
+GPZ3             -30.00 %              
+GPZ4              40.00 %              
+GPZ5              48.10 %              
+P16             1000.00 usec           
+ND0                   2                
+TD                  128                
+SFO1            70.9448 MHz            
+FIDRES        16.629417 Hz             
+SW               30.003 ppm            
+FnMODE    Echo-Antiecho                
+SI                 1024                
+SF          700.0600000 MHz            
+WDW               QSINE                
+SSB                   2                
+LB                 0.00 Hz             
+GB                    0                
+PC                 1.00                
+SI                 1024                
+MC2       echo-antiecho                
+SF           70.9364640 MHz            
+WDW               QSINE                
+SSB                   3                
+LB                 0.00 Hz             
+GB                    0                

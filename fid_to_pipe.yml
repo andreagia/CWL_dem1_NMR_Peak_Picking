@@ -1,0 +1,7 @@
+workdir:
+  class: Directory
+  path: .
+
+fiddir: 
+  class: Directory
+  path: fid  

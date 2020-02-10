@@ -1,0 +1,9 @@
+workdir_array:
+    - class: Directory
+      path: Input/3
+    - class: Directory
+      path: Input/13  
+    - class: Directory
+      path: Input/14  
+    - class: Directory
+      path: Input/15

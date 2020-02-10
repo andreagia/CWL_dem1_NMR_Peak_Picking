@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TOPSPIN		Version 1.3
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= fragai
+$$ /opt/topspin/data/fragai/nmr/MDM2_pep_p53_141116/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, VERSION, WHAT)
+(   1,<2016-11-14 11:48:34.608 +0100>,<fragai>,<av700b.intranet.nmr>,<TOPSPIN 1.3>,
+      <created by zg
+	started at 2016-11-14 11:10:25.929 +0100,
+	POWCHK disabled, PULCHK disabled
+       configuration hash MD5:
+       E1 BA D5 51 70 CB D0 C0 CA D0 E8 EB 57 7B D7 D7
+       data hash MD5: 1536 * 128
+       D5 B1 01 96 C4 DF 44 01 2F EA EB 27 97 6B F2 57>)
+##END=
+
+$$ hash MD5
+$$ 82 56 3A D3 A6 BD C3 D4 18 37 BF A9 EA 26 81 C5

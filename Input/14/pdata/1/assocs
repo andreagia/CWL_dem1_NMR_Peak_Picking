@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Linda
+$$ 2020-02-05 16:46:04.412 +0100  Linda@DESKTOP-VOE4S70
+$$ E:/xNMPIPE/MDM2-LIG_FRAGALYSIS/14/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.7\prog\mod\dataserver.exe
+##$MULTDISP= <E:\xNMPIPE\MDM2-LIG_FRAGALYSIS\3\pdata\1>
+##END=

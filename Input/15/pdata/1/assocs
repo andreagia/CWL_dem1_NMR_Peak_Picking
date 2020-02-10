@@ -1,0 +1,7 @@
+##TITLE= Parameter file, Bruker DataServer ($Id: ParamWrapper.c,v 1.57 2005/01/28 14:38:04 prs Exp $)
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##ORIGIN= Bruker BioSpin GmbH
+##$MULTDISP= /opt/topspin/data/fragai/nmr/MDM2_pep_p53_141116/3/pdata/1|/opt/topspin/data/fragai/nmr/MDM2_pep_p53_141116/5/pdata/1
+##OWNER= fragai
+##END=
