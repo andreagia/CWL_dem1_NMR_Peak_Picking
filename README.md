@@ -5,3 +5,4 @@ This test uses a protein MDM2 with different ligands and peptide and generate a 
 Test 
 - Install [cwl-runner](https://github.com/common-workflow-language/cwltool)  
 - Install docker 
+- run cwl-runner nmrpipe_workflow.cwl nmrpipe_workflow.yml
