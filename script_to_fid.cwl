@@ -20,6 +20,7 @@ requirements:
             cp $1/ser* .
             cp $1/acqus .
             cp $1/acqu?s ./
+            cp $1/pulseprogram ./
             # cp $1/fid.com ./ # to comment if the script is part of the workflow
             sh fid.com
             ls
@@ -36,6 +37,6 @@ outputs:
   std_out:
     type: stdout
   fid_out2:
-    type: Directory
+    type: File
     outputBinding:
-      glob: fid
+      glob: test.fid

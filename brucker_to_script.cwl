@@ -17,6 +17,7 @@ requirements:
             cp $1/ser* .
             cp $1/acqus .
             cp $1/acqu?s ./
+            cp $1/pulseprogram ./
             bruker -auto -notk
             ls
 

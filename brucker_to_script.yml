@@ -1,9 +1,3 @@
 workdir:
   class: Directory
-  path: .
-sh_script:
-  class: File
-  path: brucker_to_script.bash
-test1:
-  class: File
-  path: pippo.out
+  path: ./Input/3

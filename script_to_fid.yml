@@ -1,7 +1,6 @@
 workdir:
   class: Directory
-  path: .
-
+  path: ./Input/3
 fidcom: 
   class: File
   path: fid.com
