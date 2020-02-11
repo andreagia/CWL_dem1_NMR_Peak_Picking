@@ -6,3 +6,9 @@ Test
 - Install [cwl-runner](https://github.com/common-workflow-language/cwltool)  
 - Install docker 
 - run cwl-runner nmrpipe_workflow.cwl nmrpipe_workflow.yml
+# The steps containde in the workflow are the followings:  
+
+1. **bruker_to_script**: It reads Bruker files format and creates the "convertion script"  
+2. **script_to_fid**: runs the "convertion script" in order to convert the data to nmrpipe free formats  
+3. **fid_to_pipe**: executes FFT and autophasing on nmrpipe data  
+4. **pipe_to_pick**: executes nmrpipe peak-piking algorithm
