@@ -1,0 +1,3 @@
+workdir_array:
+    - class: Directory
+      path: Input/3
